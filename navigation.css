@@ -20,7 +20,7 @@ a {
 }
 
 
-/*On hoover: */
+/*On hover: */
 li:hover {
     background-color: royalblue;
     border: 2px dashed white;
